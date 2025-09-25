@@ -1,0 +1,20 @@
+openai.RateLimitError: Error code: 429 - {'error': {'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, read the docs: https://platform.openai.com/docs/guides/error-codes/api-errors.', 'type': 'insufficient_quota', 'param': None, 'code': 'insufficient_quota'}}
+
+Solution:
+---------
+https://platform.openai.com/docs/guides/error-codes/api-errors.
+
+429 - You exceeded your current quota, please check your plan and billing details
+Cause: You have run out of credits or hit your maximum monthly spend.
+Solution: Buy more credits or learn how to increase your limits.
+
+You can buy more credits here:
+https://platform.openai.com/settings/organization/billing/overview
+
+I had to add my credit card details and it asked me to add credit in the range of minimum 5 USD and maximum 100 USD.
+
+I have added five USD into my open AI account. Now I try to run the code again.
+
+
+
+
