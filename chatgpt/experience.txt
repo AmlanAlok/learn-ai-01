@@ -15,6 +15,10 @@ I had to add my credit card details and it asked me to add credit in the range o
 
 I have added five USD into my open AI account. Now I try to run the code again.
 
+-------------------------
+
+The API worked successfully after the money or credit was added to the OpenAI account
+
 
 
 
